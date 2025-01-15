@@ -13,7 +13,7 @@ Milvuster is a Rust client for interacting with the Milvus vector database. This
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/milvuster.git
+git clone https://github.com/samsond/milvuster.git
 cd milvuster
 ```
 
